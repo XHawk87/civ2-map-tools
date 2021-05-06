@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/civ2-map-tools/static/css/main.7f093877.chunk.css",
-    "main.js": "/civ2-map-tools/static/js/main.3d9cb911.chunk.js",
-    "main.js.map": "/civ2-map-tools/static/js/main.3d9cb911.chunk.js.map",
+    "main.js": "/civ2-map-tools/static/js/main.b0720912.chunk.js",
+    "main.js.map": "/civ2-map-tools/static/js/main.b0720912.chunk.js.map",
     "runtime-main.js": "/civ2-map-tools/static/js/runtime-main.ce949752.js",
     "runtime-main.js.map": "/civ2-map-tools/static/js/runtime-main.ce949752.js.map",
     "static/js/2.b8f7aa6f.chunk.js": "/civ2-map-tools/static/js/2.b8f7aa6f.chunk.js",
@@ -23,6 +23,6 @@
     "static/js/runtime-main.ce949752.js",
     "static/js/2.b8f7aa6f.chunk.js",
     "static/css/main.7f093877.chunk.css",
-    "static/js/main.3d9cb911.chunk.js"
+    "static/js/main.b0720912.chunk.js"
   ]
 }
