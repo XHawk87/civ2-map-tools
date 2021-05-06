@@ -7,7 +7,7 @@ const NavMenu = lazy(() => import('./screens/NavMenu'));
 
 function App() {
     return (
-        <Router>
+        <Router basename="/civ2-map-tools">
             <Suspense fallback={<div>Loading...</div>}>
                 <Switch>
                     <Route exact path="/" component={NavMenu}/>
