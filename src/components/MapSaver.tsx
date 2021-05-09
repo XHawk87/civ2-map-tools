@@ -1,17 +1,20 @@
-import React from "react";
-import {MapData} from "../tools/MapData";
+import React, {useRef} from "react";
+import {MapData} from "../tools/map/MapData";
 
 interface MapSaverProps {
-    mapData: MapData;
+    map: MapData;
 }
 
 export default function MapSaver(props: MapSaverProps) {
-    const map = props.mapData;
-    const saveClicked = async () => {
-        map.saveAs(map.fileName);
+    const map = props.map;
+    const fileNameRef = useRef<HTMLInputElement>(null);
+    const saveClicked = () => {
+        const fileName = fileNameRef.current?.value;
+        if (fileName) map.saveAs(fileName);
     };
     return (
         <div>
+            <input defaultValue={map.fileName} ref={fileNameRef}/>
             <button onClick={saveClicked}>Save</button>
         </div>
     );
