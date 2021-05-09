@@ -1,28 +1,28 @@
 {
   "files": {
     "main.css": "/civ2-map-tools/static/css/main.7f093877.chunk.css",
-    "main.js": "/civ2-map-tools/static/js/main.b0720912.chunk.js",
-    "main.js.map": "/civ2-map-tools/static/js/main.b0720912.chunk.js.map",
-    "runtime-main.js": "/civ2-map-tools/static/js/runtime-main.ce949752.js",
-    "runtime-main.js.map": "/civ2-map-tools/static/js/runtime-main.ce949752.js.map",
-    "static/js/2.b8f7aa6f.chunk.js": "/civ2-map-tools/static/js/2.b8f7aa6f.chunk.js",
-    "static/js/2.b8f7aa6f.chunk.js.map": "/civ2-map-tools/static/js/2.b8f7aa6f.chunk.js.map",
-    "static/js/3.7e5ee94c.chunk.js": "/civ2-map-tools/static/js/3.7e5ee94c.chunk.js",
-    "static/js/3.7e5ee94c.chunk.js.map": "/civ2-map-tools/static/js/3.7e5ee94c.chunk.js.map",
-    "static/js/4.6c910e0b.chunk.js": "/civ2-map-tools/static/js/4.6c910e0b.chunk.js",
-    "static/js/4.6c910e0b.chunk.js.map": "/civ2-map-tools/static/js/4.6c910e0b.chunk.js.map",
-    "static/js/5.26de3467.chunk.js": "/civ2-map-tools/static/js/5.26de3467.chunk.js",
-    "static/js/5.26de3467.chunk.js.map": "/civ2-map-tools/static/js/5.26de3467.chunk.js.map",
-    "static/js/6.711b8f85.chunk.js": "/civ2-map-tools/static/js/6.711b8f85.chunk.js",
-    "static/js/6.711b8f85.chunk.js.map": "/civ2-map-tools/static/js/6.711b8f85.chunk.js.map",
+    "main.js": "/civ2-map-tools/static/js/main.80604971.chunk.js",
+    "main.js.map": "/civ2-map-tools/static/js/main.80604971.chunk.js.map",
+    "runtime-main.js": "/civ2-map-tools/static/js/runtime-main.6ae9f77e.js",
+    "runtime-main.js.map": "/civ2-map-tools/static/js/runtime-main.6ae9f77e.js.map",
+    "static/js/2.60c8e430.chunk.js": "/civ2-map-tools/static/js/2.60c8e430.chunk.js",
+    "static/js/2.60c8e430.chunk.js.map": "/civ2-map-tools/static/js/2.60c8e430.chunk.js.map",
+    "static/js/3.1eb7351b.chunk.js": "/civ2-map-tools/static/js/3.1eb7351b.chunk.js",
+    "static/js/3.1eb7351b.chunk.js.map": "/civ2-map-tools/static/js/3.1eb7351b.chunk.js.map",
+    "static/js/4.d88ad9fd.chunk.js": "/civ2-map-tools/static/js/4.d88ad9fd.chunk.js",
+    "static/js/4.d88ad9fd.chunk.js.map": "/civ2-map-tools/static/js/4.d88ad9fd.chunk.js.map",
+    "static/js/5.290d16f1.chunk.js": "/civ2-map-tools/static/js/5.290d16f1.chunk.js",
+    "static/js/5.290d16f1.chunk.js.map": "/civ2-map-tools/static/js/5.290d16f1.chunk.js.map",
+    "static/js/6.5f7f81fe.chunk.js": "/civ2-map-tools/static/js/6.5f7f81fe.chunk.js",
+    "static/js/6.5f7f81fe.chunk.js.map": "/civ2-map-tools/static/js/6.5f7f81fe.chunk.js.map",
     "index.html": "/civ2-map-tools/index.html",
     "static/css/main.7f093877.chunk.css.map": "/civ2-map-tools/static/css/main.7f093877.chunk.css.map",
-    "static/js/2.b8f7aa6f.chunk.js.LICENSE.txt": "/civ2-map-tools/static/js/2.b8f7aa6f.chunk.js.LICENSE.txt"
+    "static/js/2.60c8e430.chunk.js.LICENSE.txt": "/civ2-map-tools/static/js/2.60c8e430.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ce949752.js",
-    "static/js/2.b8f7aa6f.chunk.js",
+    "static/js/runtime-main.6ae9f77e.js",
+    "static/js/2.60c8e430.chunk.js",
     "static/css/main.7f093877.chunk.css",
-    "static/js/main.b0720912.chunk.js"
+    "static/js/main.80604971.chunk.js"
   ]
 }

@@ -1,0 +1,2 @@
+(this["webpackJsonpciv2-map-tools"]=this["webpackJsonpciv2-map-tools"]||[]).push([[5],{40:function(e,i,c){"use strict";c.r(i),c.d(i,"default",(function(){return n}));c(0);var s=c(13),t=c(6);function n(){return Object(t.jsxs)("div",{className:"App-header",children:[Object(t.jsx)("h2",{children:"Civ 2 Map Tools"}),Object(t.jsx)("div",{className:"NavMenu-grid",children:Object(t.jsx)("div",{children:Object(t.jsx)(s.b,{to:"/map-editor",children:"Civ 2 Map Editor"})})})]})}}}]);
+//# sourceMappingURL=5.290d16f1.chunk.js.map
