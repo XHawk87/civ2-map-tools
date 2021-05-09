@@ -2,7 +2,7 @@ import React, {Suspense, lazy} from 'react';
 import {BrowserRouter as Router, Route, Switch} from 'react-router-dom';
 import './App.css';
 
-const Waterways = lazy(() => import('./screens/Waterways'));
+const MapEditor = lazy(() => import('./screens/MapEditor'));
 const NavMenu = lazy(() => import('./screens/NavMenu'));
 
 function App() {
@@ -11,7 +11,7 @@ function App() {
             <Suspense fallback={<div>Loading...</div>}>
                 <Switch>
                     <Route exact path="/" component={NavMenu}/>
-                    <Route path="/waterways" component={Waterways}/>
+                    <Route path="/map-editor" component={MapEditor}/>
                 </Switch>
             </Suspense>
         </Router>

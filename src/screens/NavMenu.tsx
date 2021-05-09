@@ -7,7 +7,7 @@ export default function NavMenu() {
             <h2>Civ 2 Map Tools</h2>
             <div className="NavMenu-grid">
                 <div>
-                    <Link to="/waterways">Convert Map to Waterways</Link>
+                    <Link to="/map-editor">Civ 2 Map Editor</Link>
                 </div>
             </div>
         </div>
